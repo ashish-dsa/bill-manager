@@ -2,7 +2,7 @@ A React bill manager to simplify the task of managing and paying bills.
 
 Features:
 
-1. Add, remove and edit bills.
+1. Add, remove and edit bills (hover on each bill).
 2. Filter bills by category and month.
 3. Display monthly or entire year time series of expenditure. (Currently only supports 2020, due to assignment time constraints)
 4. Highlight bills to be paid based on a budget such that no more bills can be added.
@@ -30,4 +30,7 @@ Installation steps:
 </div>
 <div align="center">
     <img src="/screenshots/Screenshot%202020-06-19%20at%202.29.34%20AM.png"</img> 
+</div>
+<div align="center">
+    <img src="/screenshots/Screenshot%202020-06-19%20at%203.04.45%20AM.png"</img> 
 </div>
