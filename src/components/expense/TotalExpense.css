@@ -1,0 +1,31 @@
+.total-expenses {
+  position: absolute;
+  right: 0;
+  width: 33%;
+  top: 0;
+  padding-top: 10%;
+  padding-right: 2%;
+}
+
+.money {
+  font-size: 20px;
+  letter-spacing: 1px;
+  margin: 5px 0;
+}
+
+.money.minus {
+  color: #c0392b;
+}
+
+.inc-exp-container {
+  background-color: #fff;
+  box-shadow: var(--box-shadow);
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.inc-exp-container > div {
+  flex: 1;
+  text-align: center;
+}

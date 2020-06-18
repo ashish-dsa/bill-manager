@@ -1,0 +1,6 @@
+.drop-down {
+  display: "flex";
+  flex-direction: column;
+  width: 33%;
+  padding-top: 2%;
+}

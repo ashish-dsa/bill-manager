@@ -1,0 +1,52 @@
+.history {
+  position: absolute;
+  left: 33%;
+  width: 30%;
+  top: 0;
+  padding-top: 5%;
+}
+.list {
+  list-style-type: none;
+  padding: 0;
+  margin-bottom: 40px;
+}
+
+.list li {
+  background-color: #fff;
+  box-shadow: var(--box-shadow);
+  color: #333;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  padding: 10px;
+  margin: 10px 0;
+}
+.list li:hover .delete-btn {
+  opacity: 1;
+}
+
+.list li:hover .edit-btn {
+  opacity: 1;
+}
+input[type="number"].budget-amount {
+  border: 1px solid #dedede;
+  border-radius: 2px;
+  display: flex;
+  font-size: 17px;
+  padding: 10px 10px 10px 5px;
+  width: 103%;
+}
+select {
+  border: 1px solid #dedede;
+  border-radius: 2px;
+  display: flex;
+  font-size: 16px;
+  width: 90%;
+  padding: 10px 10px 10px 0px;
+}
+
+.drop-down {
+  display: "flex";
+  flex-direction: column;
+  width: 33%;
+}
