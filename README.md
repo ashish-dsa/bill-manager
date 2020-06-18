@@ -17,5 +17,5 @@ Installation steps:
 6. To disable mock data set ENABLE_MOCK_DATA = false in src/context/GlobalState.tsx
 7. Screenshots are in the screenshot directory
 <div align="center">
-    <img src="/screenshots/*" width="400px"</img> 
+    <img src="/screenshots/Screenshot%202020-06-19%20at%202.27.52%20AM.png" width="400px"</img> 
 </div>
