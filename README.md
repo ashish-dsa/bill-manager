@@ -19,3 +19,15 @@ Installation steps:
 <div align="center">
     <img src="/screenshots/Screenshot%202020-06-19%20at%202.27.52%20AM.png"</img> 
 </div>
+<div align="center">
+    <img src="/screenshots/Screenshot%202020-06-19%20at%202.28.27%20AM.png"</img> 
+</div>
+<div align="center">
+    <img src="/screenshots/Screenshot%202020-06-19%20at%202.28.38%20AM.png"</img> 
+</div>
+<div align="center">
+    <img src="/screenshots/Screenshot%202020-06-19%20at%202.29.07%20AM.png"</img> 
+</div>
+<div align="center">
+    <img src="/screenshots/Screenshot%202020-06-19%20at%202.29.34%20AM.png"</img> 
+</div>
