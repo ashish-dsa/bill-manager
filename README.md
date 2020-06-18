@@ -15,3 +15,4 @@ Installation steps:
 4. Start the server : yarn start or npm run start
 5. Go to : http://localhost:3000/
 6. To disable mock data set ENABLE_MOCK_DATA = false in src/context/GlobalState.tsx
+7. Screenshots are in the screenshot directory
