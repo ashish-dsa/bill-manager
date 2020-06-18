@@ -16,3 +16,6 @@ Installation steps:
 5. Go to : http://localhost:3000/
 6. To disable mock data set ENABLE_MOCK_DATA = false in src/context/GlobalState.tsx
 7. Screenshots are in the screenshot directory
+<div align="center">
+    <img src="/screenshots/*" width="400px"</img> 
+</div>
